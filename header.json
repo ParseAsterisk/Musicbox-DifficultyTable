@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "Musicbox難易度表",
+"symbol" : "◇",
+"data_url" : "https://script.google.com/macros/s/AKfycbyBodpy-_nV8EfT5kvu8n10hdye9JOpFB4jzA8MCMT0M1tq3kD4b_wdMq_Hruk4qvmX/exec"
 }
